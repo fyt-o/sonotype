@@ -28,6 +28,16 @@ I started out by using [Processing](https://processing.org) to develop a simple 
 
 Here is the [sketch](https://github.com/fyt-o/sonotype/blob/master/Sonotype.pde)
 
+And here are some sample outputs from the Processing sketch
+
+![Sample1](https://github.com/fyt-o/sonotype/blob/master/character-21907)
+
+![Sample1](https://github.com/fyt-o/sonotype/blob/master/character-21907)
+![Sample1](https://github.com/fyt-o/sonotype/blob/master/character-21907)
+![Sample1](https://github.com/fyt-o/sonotype/blob/master/character-21907)
+![Sample1](https://github.com/fyt-o/sonotype/blob/master/character-21907)
+
+
 -----
 
 ### Form follows Data
