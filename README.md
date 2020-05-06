@@ -22,6 +22,12 @@ I began to record my own sound samples for a variety of phonetic sounds and bega
 
 -----
 
+### Initial Doodling
+
+
+
+-----
+
 ### Form follows Data
 
 Using [Grasshopper](https://www.grasshopper3d.com) to realise the forms for this piece was a simple decision once I had the data in numerical form. 
@@ -37,6 +43,10 @@ Keeping these thoughts in mind, I first tried to use a [pleating definition](htt
 
 ![pleats1](local/Macintosh HD/Users/adithyaravi/Documents/II.png)
 
-While this afforded fabrication and resemblance to soundwaves, it was neither reflective of expression in the sound nor was it immediately recognisable (the nuances that differentiate one pleated form from the other is in each individual fold).
+While this afforded very easy fabrication and resemblance to soundwaves, it was neither reflective of expression in the sound nor was it immediately recognisable (the nuances that differentiate one pleated form from the other is in each individual fold).
+
+##### Exploration 2
+
+
 
 
