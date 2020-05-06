@@ -30,13 +30,15 @@ Here is the [sketch](https://github.com/fyt-o/sonotype/blob/master/Sonotype.pde)
 
 And here are some sample outputs from the Processing sketch
 
-![Sample1](https://github.com/fyt-o/sonotype/blob/master/character-21907)
+![Sample1](https://github.com/fyt-o/sonotype/blob/master/character-21903)
 
-![Sample1](https://github.com/fyt-o/sonotype/blob/master/character-21907)
-![Sample1](https://github.com/fyt-o/sonotype/blob/master/character-21907)
-![Sample1](https://github.com/fyt-o/sonotype/blob/master/character-21907)
-![Sample1](https://github.com/fyt-o/sonotype/blob/master/character-21907)
+![Sample2](https://github.com/fyt-o/sonotype/blob/master/character-21907)
 
+![Sample3](https://github.com/fyt-o/sonotype/blob/master/character-21908)
+
+![Sample4](https://github.com/fyt-o/sonotype/blob/master/character-21915)
+
+![Sample5](https://github.com/fyt-o/sonotype/blob/master/character-21918)
 
 -----
 
@@ -59,6 +61,6 @@ While this afforded very easy fabrication and resemblance to soundwaves, it was 
 
 ##### Exploration 2
 
-The next exploration involved using the data to firstly generate a 
+The next exploration involved using the data to firstly generate a representation of the phoneme amplitudes as a 'soundwave' that we could manipulate for filtering out 'noise' (repetitive values). 
 
 
