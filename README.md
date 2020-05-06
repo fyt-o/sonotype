@@ -24,7 +24,7 @@ I began to record my own sound samples for a variety of phonetic sounds and bega
 
 ### Initial Doodling
 
-
+I started out by using [Processing](https://processing.org) to develop a simple way of making sense of sound. In order to do this, I wrote a simple 'sketch' that used Processing's [sound library](https://processing.org/reference/libraries/sound/index.html) to analyse the amplitudinal variations in a sound sample and also use a [Fast Fourier Transform](https://youtu.be/spUNpyF58BY)(FFT) algorithm to visualise the sample as a series of spectral frequencies. While Processing and FFT's did not feature in the subsequent direction for this piece, it was elemental in directing my understanding of how sound can be seen, understood and abstracted.    
 
 -----
 
@@ -41,7 +41,7 @@ I had a few options when it came to translating this data into forms. However, c
 
 Keeping these thoughts in mind, I first tried to use a [pleating definition](https://github.com/zachpino/generative-design-workshop-s20/blob/master/week10/pleat-definition.gh) in Grasshopper to visualise the amplitudes as a long strip of paper that would be folded into a pleated accordian of sorts.
 
-![pleats1](local/Macintosh HD/Users/adithyaravi/Documents/II.png)
+![pleats1](https://github.com/fyt-o/sonotype/blob/master/II.png)
 
 While this afforded very easy fabrication and resemblance to soundwaves, it was neither reflective of expression in the sound nor was it immediately recognisable (the nuances that differentiate one pleated form from the other is in each individual fold).
 
