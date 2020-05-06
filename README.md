@@ -2,7 +2,7 @@
 
 An exploration towards using the way we speak to create type forms that are generative towards a universal, inclusive and expressive communication.
 
-[f.y.t/o](https://www.adithyaravi.com), [ZAP](http://www.zachpino.com) and COMPUTERS.
+[f.y.t/o](https://www.adithyaravi.com), [ZAP](http://www.zachpino.com) and COMPUTER.
 
 ----
 
