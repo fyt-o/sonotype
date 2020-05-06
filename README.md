@@ -30,15 +30,15 @@ Here is the [sketch](https://github.com/fyt-o/sonotype/blob/master/Sonotype.pde)
 
 And here are some sample outputs from the Processing sketch
 
-![Sample1](https://github.com/fyt-o/sonotype/blob/master/character-21903)
+![Sample1](https://github.com/fyt-o/sonotype/blob/master/character-21903.png)
 
-![Sample2](https://github.com/fyt-o/sonotype/blob/master/character-21907)
+![Sample2](https://github.com/fyt-o/sonotype/blob/master/character-21907.png)
 
-![Sample3](https://github.com/fyt-o/sonotype/blob/master/character-21908)
+![Sample3](https://github.com/fyt-o/sonotype/blob/master/character-21908.png)
 
-![Sample4](https://github.com/fyt-o/sonotype/blob/master/character-21915)
+![Sample4](https://github.com/fyt-o/sonotype/blob/master/character-21915.png)
 
-![Sample5](https://github.com/fyt-o/sonotype/blob/master/character-21918)
+![Sample5](https://github.com/fyt-o/sonotype/blob/master/character-21918.png)
 
 -----
 
