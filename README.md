@@ -26,7 +26,7 @@ I began to record my own sound samples for a variety of phonetic sounds and bega
 
 I started out by using [Processing](https://processing.org) to develop a simple way of making sense of sound. In order to do this, I wrote a simple 'sketch' that used Processing's [sound library](https://processing.org/reference/libraries/sound/index.html) to analyse the amplitudinal variations in a sound sample and also use a [Fast Fourier Transform](https://youtu.be/spUNpyF58BY) (FFT) algorithm to visualise the sample as a series of spectral frequencies. While Processing and FFT's did not feature in the subsequent direction for this piece, it was elemental in directing my understanding of how sound can be seen, understood and abstracted.   
 
-Here is the [sketch]
+Here is the [sketch](https://github.com/fyt-o/sonotype/blob/master/Sonotype.pde)
 
 -----
 
