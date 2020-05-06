@@ -18,4 +18,17 @@ As I mulled over these questions, my preoccupation with sound and developing an 
 
 In order to gather the data that I needed, I first had to understand the construction of language. I took inspiration from a variety of languages to understand the ways in which they approach communication auditorily, expressively and visually. Hebrew, Arabic, Latin, Greek, Tamil, Pali, Korean, Tsalagi and Xhosa were amongst the languages that I engaged with. Once I had developed an understanding of the range of options from which a writing system could be constructed, I decided to introduce certain observations of elementary linguistic pedagogy such as focusing on phonetics as a fundamental way to understand the construction of words. 
 
-I began to record my own sound samples for a variety of phonetic sounds and began to understand how they changed either in their amplitudes, frequencies or in their duration. It was then that my advisor [Zach Pino](https://github.com/zachpino), pointed me towards a program called [wav2c](https://github.com/olleolleolle/wav2c) that would accept a '.wav' file of a sound sample and return a list of amplitudes for the sounds in that file. In order to maintain a standard tone, timbre and quality of sounds, I decided to source the samples from a [UCLA course repository](http://www.phonetics.ucla.edu/course/chapter1/chapter1.html).  
+I began to record my own sound samples for a variety of phonetic sounds and began to understand how they changed either in their amplitudes, frequencies or in their duration. It was then that my advisor [Zach Pino](https://github.com/zachpino), pointed me towards a program called [wav2c](https://github.com/olleolleolle/wav2c) that would accept a '.wav' file of a sound sample and return a list of amplitudes for the sounds in that file. In order to maintain a standard tone, timbre and quality of sounds, I decided to source the samples from a [UCLA course repository](http://www.phonetics.ucla.edu/course/chapter1/chapter1.html).
+
+### Form follows Data
+
+Using [Grasshopper](https://www.grasshopper3d.com) to realise the forms for this piece was a simple decision once I had the data in numerical form. 
+
+I had a few options when it came to translating this data into forms. However, certain specific ideas had to be considered before I decided on a series of forms. 
+- Firstly, In order for this to be a typeface that could actually be used, the forms had abstraction so as to be recognisable, replicable and legible
+- Secondly, the forms should lend themsleves to three-dimensional fabrication. This was essential to develop a discourse around inclusivity in language teaching. Certain people respond to the kinesthetic stimulus of form and I wanted to make sure that there was a way tom engage this typeface beyond the audio-visual experience.
+- Finally, I wanted to leave traces of representing sound as a wave in the typeform. This was to both show where the typeforms came from but also to visually associate the phonetic sound with a form.
+
+##### Exploration 1
+Keeping these thoughts in mind, I first tried to use a pleating definition in Grasshopper to visualise the amplitudes.  
+![pleats 1](II.png)
