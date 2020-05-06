@@ -47,6 +47,6 @@ While this afforded very easy fabrication and resemblance to soundwaves, it was 
 
 ##### Exploration 2
 
-
+The next exploration involved using the data to firstly generate a 
 
 
