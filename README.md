@@ -2,6 +2,8 @@
 
 An exploration towards using the way we speak to create type forms that are generative towards a universal, inclusive and expressive communication.
 
+[f.y.t/o](adithyaravi.com), [ZAP](http://www.zachpino.com) and COMPUTERS.
+
 ----
 
 ### Introduction - Premise and Questions
