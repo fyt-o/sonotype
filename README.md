@@ -101,3 +101,13 @@ The second series was created to explore forms that were more expressive. Here a
 
 ### What's Next?
 
+Currently, working on developing the forms from Series I into a complete repertoire of typeforms that can be employed for the purposes of visual communication using [Glyphs](https://glyphsapp.com) while also trying to identify the most interesting experience for scribing in this typeface.
+
+Some other questions we may begin to ask:
+
+- Would we start to adopt sounds from other languages as we now have a way to represent these sounds in recognisable ways?
+- Is this a typeface? A writing system? An expression of language as we see and hear it?
+- What other applications can we find for these forms? Jewelry? Sculpture?
+
+Will keep updating this with more questions and assets as we begin to develop them.
+
