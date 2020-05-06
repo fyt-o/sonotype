@@ -48,7 +48,7 @@ And here are some sample outputs from the Processing sketch
 ![Sample4](https://github.com/fyt-o/sonotype/blob/master/character-21915.png)
 
 
-![Sample5](https://github.com/fyt-o/sonotype/blob/master/character-21918.png)
+![Sample5](https://github.com/fyt-o/sonotype/blob/master/character-21919.png)
 
 
 -----
