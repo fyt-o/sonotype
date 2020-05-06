@@ -67,4 +67,8 @@ While this afforded very easy fabrication and resemblance to soundwaves, it was 
 
 ##### Exploration 2
 
-The next exploration involved using the data to firstly generate a representation of the phoneme amplitudes as a 'soundwave' that we could manipulate for filtering out 'noise' (repetitive values). Following this, we experimented weith different ways in which the wave could be abstracted, sculpted or simplified to create a family of forms that were similar enough but also unique. The grasshopper definition for the same is 
+The next exploration involved using the data to firstly generate a representation of the phoneme amplitudes as a 'soundwave' that we could manipulate for filtering out 'noise' (repetitive values). Following this, we experimented weith different ways in which the wave could be abstracted, sculpted or simplified to create a family of forms that were similar enough but also unique. The grasshopper definition for this is available [here](https://github.com/fyt-o/sonotype/blob/master/sound-blobs.gh) or one can recreate the definition using the image of the definition below.
+
+![Sonotype_Def]()
+
+
