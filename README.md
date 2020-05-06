@@ -35,7 +35,7 @@ I had a few options when it came to translating this data into forms. However, c
 
 Keeping these thoughts in mind, I first tried to use a [pleating definition](https://github.com/zachpino/generative-design-workshop-s20/blob/master/week10/pleat-definition.gh) in Grasshopper to visualise the amplitudes as a long strip of paper that would be folded into a pleated accordian of sorts.
 
-![pleats1](Macintosh HD/Users/adithyaravi/Documents/II.png)
+![pleats1](local/Macintosh HD/Users/adithyaravi/Documents/II.png)
 
 While this afforded fabrication and resemblance to soundwaves, it was neither reflective of expression in the sound nor was it immediately recognisable (the nuances that differentiate one pleated form from the other is in each individual fold).
 
