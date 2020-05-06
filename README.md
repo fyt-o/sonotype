@@ -74,8 +74,18 @@ While this afforded very easy fabrication and resemblance to soundwaves, it was 
 
 The next exploration involved using the data to firstly generate a representation of the phoneme amplitudes as a 'soundwave' that we could manipulate for filtering out 'noise' (repetitive values). Following this, we experimented weith different ways in which the wave could be abstracted, sculpted or simplified to create a family of forms that were similar enough but also unique. The grasshopper definition for this is available [here](https://github.com/fyt-o/sonotype/blob/master/sound-blobs.gh). 
 
-The first series of forms we created were for the purposes of a reproducible typeface that could actually function. The outputs of that both as three-dimensional renders and as a two-dimensional series of characters are shown below.
+> Series I
+
+> The first series of forms we created were for the purposes of a reproducible typeface that could actually function. The     > outputs of that both as three-dimensional renders and as a two-dimensional series of characters are shown below.
 
 ![A-render](https://github.com/fyt-o/sonotype/blob/master/D045433A-BF95-4A49-B4CB-5EFC38CA1DDA.JPG)
 
 ![R-render](https://github.com/fyt-o/sonotype/blob/master/E5DF6434-E21F-4DCB-B9C0-E0A4F8A82852.JPG)
+
+![Sample Sheet](https://github.com/fyt-o/sonotype/blob/master/SampleSheetSonotype.png)
+
+The second series was created to explore forms that were more expressive. Here are some renderings for two different sound samples for the same phonetic sound. These samples differed from one another in the way they were sonically expressed.
+
+![Sound Globe I](https://github.com/fyt-o/sonotype/blob/master/alphabetglobes.png)
+
+![Sound Globe II](https://github.com/fyt-o/sonotype/blob/master/aii%20v1.png)
