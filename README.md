@@ -29,7 +29,7 @@ I began to record my own sound samples for a variety of phonetic sounds and bega
 
 ### Initial Doodling
 
-I started out by using [Processing](https://processing.org) to develop a simple way of making sense of sound. In order to do this, I wrote a simple 'sketch' that used Processing's [sound library](https://processing.org/reference/libraries/sound/index.html) to analyse the amplitudinal variations in a sound sample and also use a [Fast Fourier Transform](https://youtu.be/spUNpyF58BY) (FFT) algorithm to visualise the sample as a series of spectral frequencies. While Processing and FFT's did not feature in the subsequent direction for this piece, it was elemental in directing my understanding of how sound can be seen, understood and abstracted.   
+We started out by using [Processing](https://processing.org) to develop a simple way of making sense of sound. In order to do this, we wrote a simple 'sketch' that used Processing's [sound library](https://processing.org/reference/libraries/sound/index.html) to analyse the amplitudinal variations in a sound sample and also use a [Fast Fourier Transform](https://youtu.be/spUNpyF58BY) (FFT) algorithm to visualise the sample as a series of spectral frequencies. While Processing and FFT's did not feature in the subsequent direction for this piece, it was elemental in directing my understanding of how sound can be seen, understood and abstracted.   
 
 Here is the [sketch](https://github.com/fyt-o/sonotype/blob/master/Sonotype.pde)
 
@@ -55,16 +55,16 @@ And here are some sample outputs from the Processing sketch
 
 ### Form follows Data 
 
-Using [Grasshopper](https://www.grasshopper3d.com) to realise the forms for this piece was a simple decision once I had the data in numerical form. 
+Using [Grasshopper](https://www.grasshopper3d.com) to realise the forms for this piece was a simple decision once we had the data in numerical form. 
 
-I had a few options when it came to translating this data into forms. However, certain specific ideas had to be considered before I decided on a series of forms. 
+We had a few options when it came to translating this data into forms. However, certain specific ideas had to be considered before I decided on a series of forms. 
 - Firstly, In order for this to be a typeface that could actually be used, the forms had abstraction so as to be recognisable, replicable and legible
-- Secondly, the forms should lend themsleves to three-dimensional fabrication. This was essential to develop a discourse around inclusivity in language teaching. Certain people respond to the kinesthetic stimulus of form and I wanted to make sure that there was a way tom engage this typeface beyond the audio-visual experience.
-- Finally, I wanted to leave traces of representing sound as a wave in the typeform. This was to both show where the typeforms came from but also to visually associate the phonetic sound with a form.
+- Secondly, the forms should lend themsleves to three-dimensional fabrication. This was essential to develop a discourse around inclusivity in language teaching. Certain people respond to the kinesthetic stimulus of form and we wanted to make sure that there was a way tom engage this typeface beyond the audio-visual experience.
+- Finally, we wanted to leave traces of representing sound as a wave in the typeform. This was to both show where the typeforms came from but also to visually associate the phonetic sound with a form.
 
 ##### Exploration 1
 
-Keeping these thoughts in mind, I first tried to use a [pleating definition](https://github.com/zachpino/generative-design-workshop-s20/blob/master/week10/pleat-definition.gh) in Grasshopper to visualise the amplitudes as a long strip of paper that would be folded into a pleated accordian of sorts.
+Keeping these thoughts in mind, we first tried to use a [pleating definition](https://github.com/zachpino/generative-design-workshop-s20/blob/master/week10/pleat-definition.gh) in Grasshopper to visualise the amplitudes as a long strip of paper that would be folded into a pleated accordian of sorts.
 
 ![pleats1](https://github.com/fyt-o/sonotype/blob/master/II.png)
 
@@ -76,7 +76,7 @@ The next exploration involved using the data to firstly generate a representatio
 
 > Series I
 
-> The first series of forms we created were for the purposes of a reproducible typeface that could actually function. The     > outputs of that both as three-dimensional renders and as a two-dimensional series of characters are shown below.
+The first series of forms we created were for the purposes of a reproducible typeface that could actually function. The outputs of that both as three-dimensional renders and as a two-dimensional series of characters are shown below.
 
 ![A-render](https://github.com/fyt-o/sonotype/blob/master/D045433A-BF95-4A49-B4CB-5EFC38CA1DDA.JPG)
 
