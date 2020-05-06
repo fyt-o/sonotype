@@ -42,7 +42,7 @@ And here are some sample outputs from the Processing sketch
 
 -----
 
-### Form follows Data
+### Form follows Data 
 
 Using [Grasshopper](https://www.grasshopper3d.com) to realise the forms for this piece was a simple decision once I had the data in numerical form. 
 
