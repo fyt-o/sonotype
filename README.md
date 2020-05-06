@@ -20,6 +20,8 @@ In order to gather the data that I needed, I first had to understand the constru
 
 I began to record my own sound samples for a variety of phonetic sounds and began to understand how they changed either in their amplitudes, frequencies or in their duration. It was then that my advisor [Zach Pino](https://github.com/zachpino), pointed me towards a program called [wav2c](https://github.com/olleolleolle/wav2c) that would accept a '.wav' file of a sound sample and return a list of amplitudes for the sounds in that file. In order to maintain a standard tone, timbre and quality of sounds, I decided to source the samples from a [UCLA course repository](http://www.phonetics.ucla.edu/course/chapter1/chapter1.html).
 
+-----
+
 ### Form follows Data
 
 Using [Grasshopper](https://www.grasshopper3d.com) to realise the forms for this piece was a simple decision once I had the data in numerical form. 
@@ -30,5 +32,11 @@ I had a few options when it came to translating this data into forms. However, c
 - Finally, I wanted to leave traces of representing sound as a wave in the typeform. This was to both show where the typeforms came from but also to visually associate the phonetic sound with a form.
 
 ##### Exploration 1
-Keeping these thoughts in mind, I first tried to use a pleating definition in Grasshopper to visualise the amplitudes.  
-![pleats 1](II.png)
+
+Keeping these thoughts in mind, I first tried to use a [pleating definition](https://github.com/zachpino/generative-design-workshop-s20/blob/master/week10/pleat-definition.gh) in Grasshopper to visualise the amplitudes as a long strip of paper that would be folded into a pleated accordian of sorts.
+
+![pleats1](Users/adithyaravi/Documents/II.png)
+
+
+
+
